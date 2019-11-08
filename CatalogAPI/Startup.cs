@@ -40,12 +40,12 @@ namespace CatalogAPI
                 //.AllowAnyMethod()
                 //.AllowAnyHeader());
 
-                c.AddPolicy("AllowPartners", x =>
-                {
-                    x.WithOrigins("http://microsoft.com", "http://synergetics.com")
-                    .WithMethods("GET", "POST")
-                    .AllowAnyHeader(); 
-                });
+                //c.AddPolicy("AllowPartners", x =>
+                //{
+                //    x.WithOrigins("http://microsoft.com", "http://synergetics.com")
+                //    .WithMethods("GET", "POST")
+                //    .AllowAnyHeader(); 
+                //});
                 c.AddPolicy("AllowAll", x =>
                 {
                     x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
@@ -107,7 +107,7 @@ namespace CatalogAPI
             
             app.UseSwagger(); // http://localhost:5000/swagger/v1/swagger.json
 
-            if (env.IsDevelopment())
+            //if (env.IsDevelopment())
             {
                 app.UseSwaggerUI(config =>
                 {
