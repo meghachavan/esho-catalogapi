@@ -14080,11 +14080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\B5\\Microservices\\EshopMicroservices_Megha\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
+      "projectUniqueName": "D:\\B5\\Azure\\Kubernetes\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
       "projectName": "CatalogAPI",
-      "projectPath": "D:\\B5\\Microservices\\EshopMicroservices_Megha\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
+      "projectPath": "D:\\B5\\Azure\\Kubernetes\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
       "packagesPath": "C:\\Users\\r1m1nrao\\.nuget\\packages\\",
-      "outputPath": "D:\\B5\\Microservices\\EshopMicroservices_Megha\\CatalogAPI\\CatalogAPI\\obj\\",
+      "outputPath": "D:\\B5\\Azure\\Kubernetes\\CatalogAPI\\CatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

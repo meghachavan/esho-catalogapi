@@ -42,3 +42,17 @@ D:\B5\Microservices\EshopMicroservices_Megha\CatalogAPI\CatalogAPI\obj\Debug\net
 D:\B5\Microservices\EshopMicroservices_Megha\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
 D:\B5\Microservices\EshopMicroservices_Megha\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
 D:\B5\Microservices\EshopMicroservices_Megha\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+D:\B5\Azure\Kubernetes\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
